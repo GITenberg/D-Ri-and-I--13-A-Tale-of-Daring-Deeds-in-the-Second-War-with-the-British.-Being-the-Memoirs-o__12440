@@ -1,0 +1,28 @@
+_repo: D-Ri-and-I--13-A-Tale-of-Daring-Deeds-in-the-Second-War-with-the-British.-Being-the-Memoirs-o__12440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bacheller, Irving
+    alias: Bacheller, Addison Irving
+    birthdate: 1859
+    deathdate: 1950
+    gutenberg_agent_id: '4001'
+    url: http://www.gutenberg.org/2009/agents/4001
+    wikipedia: http://en.wikipedia.org/wiki/Irving_Bacheller
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- War of 1812 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "D'Ri and I\r\nA Tale of Daring Deeds in the Second War with the British. Being\
+  \ the Memoirs of Colonel Ramon Bell, U.S.A."
+url: http://www.gutenberg.org/ebooks/12440
